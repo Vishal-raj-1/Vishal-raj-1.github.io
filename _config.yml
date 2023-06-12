@@ -1,4 +1,13 @@
-theme: jekyll-theme-minimal
-
 title: Vishal Rajput
-description: Frontend Engineer
+logo: "/Vishal.png"
+description: >
+  <br>
+  Software Engineer | Frontend Engineer
+  <br>
+  <a href="https://www.linkedin.com/in/vishalraj1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rajputvishal33876@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-minimal
